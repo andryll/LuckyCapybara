@@ -8,7 +8,7 @@
 }
 
 #cabecalho{
-    background-color: rgb(122, 0, 0);
+    background-color: #8b1502;
 }
 
 #corpo{
@@ -16,11 +16,11 @@
 }
 
 #rodape{
-    background-color: rgb(122, 0 ,0);
+    background-color: #8b1502;
 }
 
 
-name_jogo{
+.name_jogo{
     color: goldenrod;
 }
 
