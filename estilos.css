@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+.texto{
+    color: snow;
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+#cabecalho{
+    background-color: rgb(122, 0, 0);
+}
+
+#corpo{
+    background-color: rgb(20, 20, 20);
+}
+
+#rodape{
+    background-color: rgb(122, 0 ,0);
+}
+
+
+name_jogo{
+    color: goldenrod;
+}
+
+.botao{
+    background-color: azure;
+    color: rgb(20, 20, 20);
+}
