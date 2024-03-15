@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro</title>
+    <link rel="stylesheet" type="text/css" href="src/style.css" />
+</head>
+
+<body>
+    <!-- Cabeçalho -->
+    <div id="cabecalho">
+        <!-- implementar logo -->
+        <a href="index.html">
+            <img src="img/capivara1.png" width="100" height="100" />
+                    </a>
+        <!-- implementar as títulos dos jogos -->
+        <a class="name_jogo" href="cacaniquel.html">Caça Niquel</a>
+        <a class="name_jogo" href="blackjack.html">Black Jack/21</a>
+        <a class="name_jogo" href="roleta.html">Roleta</a>
+        <!-- implementar botões -->
+        <a class="entrar" href="entrar.html">
+            <button type="button">Entrar</button>
+        </a>
+        <a class="cadastro" href="cadastro.html">
+            <button type="button">Cadastrar</button>
+                    </a>
+    </div>
+    <div id="corpo" style="margin-top: 0px;">
+        <h1 class="texto">Insira seus dados para realizar o cadastro</h1>
+        <form class="cadastro" method="post">
+            <h3 class="texto">Nome: </h3>
+            <input type="text" name="nome" required autofocus />
+            <br>
+            <h3 class="texto">Nome de Usuário: </h3>
+            <input type="text" name="nome_usuario" required autofocus />
+            <br>
+            <h3 class="texto">Idade: </h3>
+            <input type="date" name="idade" required autofocus />
+            <br>
+            <h3 class="texto">Email: </h3>
+            <input type="email" name="email" required autofocus />
+            <br>
+            <h3 class="texto">Senha: </h3>
+            <input type="password" name="senha" required />
+            <br>
+            <h3 class="texto">Confirme a Senha: </h3>
+            <input type="password" name="conf_senha" required />
+            <br>
+            <br>
+            <input type="submit" value="Cadastrar" />
+
+        </form>
+
+    </div>
+
+    <!-- Rodapé -->
+    <div id="rodape">
+        <!-- Contatos -->
+        <p id="contatos">Contatos</p>
+        <!-- implementar textos e links -->
+        <h1 class="endereco_contatos">Instagram:</h1>
+        <a class="link_contatos" href="link_insta">@CapivaraDaSorteOficial</a>
+        <h1 class="endereco_contatos">TikTok:</h1>
+        <a class="link_contatos" href="link_tiktok">@CapivaraDaSorteOficial</a>
+        <!-- Identificação -->
+        <p id="quem_somos">Quem Somos</p>
+        <!-- implementar nomes -->
+        <h1 class="nomes">Sandro Christe</h1>
+        <h1 class="nomes">Thomas Sampaio</h1>
+        <h1 class="nomes">Andre Luis</h1>
+        <h1 class="nomes">Joao Carvalho</h1>
+        <!-- logo -->
+        <img src="img/logo2.png" width="100" height="100" />
+
+
+    </div>
+
+</body>
+
+</html>
