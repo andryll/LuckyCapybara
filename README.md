@@ -9,7 +9,7 @@ Na primeira semana da disciplina de desenvolvimento web, foi apresentado o plane
 
 O grupo
 
-O grupo formado para este projeto consiste em minha pessoa, André Luís, além dos colegas João Vitor Garcia, Sandro Pinheiro e Thomas Oliveira. A escolha por esse grupo se deu por todos ali já conhecerem uns aos outros e terem ideias parecidas. Dessa forma, imaginou-se que o projeto avançaria de maneira tranquila, sem maiores confusões entre os membros.
+O grupo formado para este projeto consiste em André Luís, João Vitor Garcia, Sandro Pinheiro e Thomas Oliveira. 
 
 
 
